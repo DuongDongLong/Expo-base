@@ -1,0 +1,23 @@
+{
+    "FIELD_REQUIRED": "Required",
+    "EMAIL_INVALID_MSG": "Invalid email",
+    "PASSWORD_INVALID_MSG": "Your password is invalid",
+    "PASSWORD_REQUIRED_MSG": "Password required",
+    "PASSWORD_MIN_LENGTH_MSG": "The password must include {{value}} characters at least",
+    "PASSWORD_MAX_LENGTH_MSG": "The password must include {{value}} characters at most",
+    "CONFIRM_PASSWORD_NOT_MATCH_MSG": "The two passwords must be identical",
+    "CONFIRM_PASSWORD_REQUIRED_MSG": "Confirm password",
+    "TELEPHONE_INVALID_MSG":"The phone number is not valid",
+    "TAKE_PICTURE": "Take a picture",
+    "CHOOSE_PICTURE": "Select from galery",
+    "CHOOSE_FILE": "Choose file",
+    "CANCEL": "Cancel",
+    "FIELD_CANNOT_CONTAIN_DIGITS": "The name cannot contain numbers",
+    
+    "email": "Email",
+    "password": "Password",
+    "forgot_your_password": "Forgot your password?",
+    "i_dont_have_an_account_yet": "I don't have an account yet",
+    "login":"Login",
+    "welcome_back": "Welcome back"
+}
